@@ -9,13 +9,13 @@
     row-gap: 26px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place__paragraph-container{
         row-gap: 25px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .place__paragraph-container{
         width: 288px;
         margin: 0 auto;
