@@ -11,6 +11,7 @@
     line-height: 28px;
     text-align: right;
     text-decoration: none;
+    text-transform: capitalize
 }
 
 .header__lang-link:last-child {

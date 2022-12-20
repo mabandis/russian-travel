@@ -1,5 +1,5 @@
 .footer {
-    width: 1184px;
+    width: 92.5%;
     margin: 0 auto;
     padding: 0;
     padding-top: 92px;
@@ -11,13 +11,13 @@
 
 @media screen and (max-width: 1279px) {
     .footer {
-        width: 928px;
+        width: 90.6%;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .footer {
-        width: 720px;
+        width: 93.75%;
         padding-top: 88px;
     }
 }
@@ -27,9 +27,8 @@
         box-sizing: content-box;
         flex-direction: column;
         justify-content: start;
-        width: 186px;
+        width: 58.1%;
         padding-top: 64px;
         padding-left: 16px;
-        padding-right: 118px;
     }
 }
